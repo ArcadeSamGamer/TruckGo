@@ -1,4 +1,4 @@
-# truckgo_project
+# truckgo
 
 A new Flutter project.
 
